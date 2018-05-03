@@ -1,0 +1,1 @@
+# wc-default-theme
